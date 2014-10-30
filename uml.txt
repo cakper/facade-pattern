@@ -1,4 +1,5 @@
-[Templated Swifr Mailer|+send()]-.-^[Templated Mailer]
-[Templated Swifr Mailer]->[Twig Evironment]
-[Templated Swifr Mailer]->[Swift Mailer]
+[Templated Swift Mailer|+send()]-.-^[Templated Mailer]
+[Templated Swift Mailer]->[Twig Evironment]
+[Templated Swift Mailer]->[Swift Mailer]
+[Templated Swift Mailer]-.->[Swift Message]
 [Client]-.->[Templated Mailer]
