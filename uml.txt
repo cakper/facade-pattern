@@ -1,0 +1,4 @@
+[Templated Swifr Mailer|+send()]-.-^[Templated Mailer]
+[Templated Swifr Mailer]->[Twig Evironment]
+[Templated Swifr Mailer]->[Swift Mailer]
+[Client]-.->[Templated Mailer]
