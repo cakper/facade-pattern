@@ -2,4 +2,4 @@
 [Templated Swift Mailer]->[Twig Evironment]
 [Templated Swift Mailer]->[Swift Mailer]
 [Templated Swift Mailer]-.->[Swift Message]
-[Client]-.->[Templated Mailer]
+[Client]-->[Templated Mailer]
